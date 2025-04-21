@@ -1,0 +1,194 @@
+.add{
+    /* background-color: blanchedalmond;  */
+    /* background-image: url("https://media.istockphoto.com/id/173753506/fr/photo/handcuffed-mains.jpg?s=612x612&w=0&k=20&c=Jnyn3DkbzExu_dZFu3QUfU8jjSRiYNii8Ce34sirkhE="); */
+    
+    background-image: url("https://blog.puritanmedproducts.com/hs-fs/hubfs/GettyImages-1159196095.jpeg?width=600&name=GettyImages-1159196095.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:fit-content;
+}
+
+.list{
+    background-image:url("https://t3.ftcdn.net/jpg/04/09/07/24/360_F_409072403_CQDQuwJMuQPnD6hQjuBzWmjnOhCvpZSs.jpg");
+     background-attachment: fixed; */
+     /* background-repeat: no-repeat; */
+     background-size: cover;
+} 
+
+.edit{
+    background-image:url("https://img.freepik.com/free-vector/realistic-bloody-handprint-background_52683-133397.jpg");
+     background-attachment: fixed; */
+     /* background-repeat: no-repeat; */
+     background-size: cover;
+} 
+.vvv{
+    color: #c6ed16;
+    background-image: url("https://ak5.picdn.net/shutterstock/videos/15503575/thumb/11.jpg");
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+
+
+
+
+@@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.neon-marquee {
+    color: red;
+    font-size: 30px;
+    background-color: black;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 0 10px red;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+.addd {
+    width: 350px;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 12px rgb(255, 0, 106), 0 0 25px rgb(255, 0, 4);
+    text-align: center;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+.input-group {
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.input-group label {
+    display: block;
+    color: cyan;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.input-group select,
+.input-group input {
+    width: 100%;
+    padding: 8px;
+    background: transparent;
+    border: 2px solid cyan;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+    outline: none;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: cyan;
+    color: black;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: blue;
+    color: white;
+}
+
+/* Lock Icon */
+.lock-icon {
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 30px;
+    color: cyan;
+    text-shadow: 0 0 10px cyan, 0 0 20px blue;
+}
+
+.back-button {
+    margin-top: 15px;
+    font-size: 18px;
+    color: red;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.back-button:hover {
+    text-shadow: 0 0 10px red, 0 0 20px red;
+}
+
+
+.final{
+    background-image: url("https://media.istockphoto.com/id/1059636358/photo/crime-scene-tape-barrier-in-front-of-defocused-background.jpg?s=612x612&w=0&k=20&c=OY-zRCjZomRECgreeVysbpBelxrGhdeIn6sQBMC5lUE=");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+.neonText {
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px rgb(255, 0, 102),
+        0 0 82px rgb(255, 0, 64),
+        0 0 92px hsl(355, 100%, 50%),
+        0 0 102px #0fa,
+        0 0 151px #0fa;
+  }
+
+  .eddd{
+    background-image: url("https://media.istockphoto.com/id/1033037302/photo/handcuffs-gavel-on-book-on-a-wooden-background.jpg?s=612x612&w=0&k=20&c=_CYd0akREhgP4rV_3cved9GnxZ6gv0fMpR4-4M67L_Q=");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.reccc{
+    background-image: url("https://i0.wp.com/johnnixlawoffice.com/wp-content/uploads/2024/10/image-7.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.viewww{
+    background-image: url("https://blog.ipleaders.in/wp-content/uploads/2016/06/o-DEATH-PENALTY-facebook.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
